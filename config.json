@@ -26,7 +26,7 @@
       "api": "https://cj.ffzyapi.com/api.php/provide/vod",
       "name": "🔵非凡源",
       "is_adult": false
-    },    
+    },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "🔵黑木耳",
@@ -158,7 +158,7 @@
       "api": "https://p2100.net/api.php/provide/vod",
       "name": "🔵飘零资源",
       "is_adult": false
-    },    
+    },
     "lbzy": {
       "api": "https://lbapi9.com/api.php/provide/vod",
       "name": "🔞乐播资源",
@@ -251,7 +251,7 @@
     "thzy": {
         "api": "https://thzy1.me/api.php/provide/vod",
         "name": "🔞桃花资源"
-    },  
+    },
     "jpzy": {
       "api": "https://www.jingpinx.com/api.php/provide/vod",
       "name": "🔞精品资源",
@@ -286,7 +286,7 @@
       "api": "https://siwazyw.tv/api.php/provide/vod",
       "name": "🔞丝袜资源",
       "is_adult": true
-    },  
+    },
     "ddzy": {
       "api": "https://doudouzy.com/api.php/provide/vod",
       "name": "🔞豆豆资源",
@@ -296,7 +296,7 @@
         "api": "https://api.sexnguon.com/api.php/provide/vod",
         "name": "🔞色嗨国",
         "is_adult": true
-    },  
+    },
     "xxbzy": {
       "api": "https://xingba111.com/api.php/provide/vod",
       "name": "🔞性吧资源",
